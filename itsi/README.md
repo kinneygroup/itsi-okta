@@ -1,5 +1,5 @@
 ## Summary
-The ITSI Content Pack for Okta-Identity-Cloud from Kinney Group is specifically designed to monitor system health related to Okta Identity Cloud services. It leverages Splunk ITSI to provide in-depth analysis and visualization of logs for Okta Identity Cloud, ensuring critical identity and access management systems are operating optimally. This content pack is an essential tool for IT professionals looking to enhance the reliability and performance of their Okta infrastructure.
+The ITSI Content Pack for Okta-Identity-Cloud from Presidio Splunk Solutions is specifically designed to monitor system health related to Okta Identity Cloud services. It leverages Splunk ITSI to provide in-depth analysis and visualization of logs for Okta Identity Cloud, ensuring critical identity and access management systems are operating optimally. This content pack is an essential tool for IT professionals looking to enhance the reliability and performance of their Okta infrastructure.
 
 * Comprehensive Authentication Monitoring: Offers detailed insights into user authentication processes, multi-factor authentication, and API interactions, enabling optimized security and user experience.
 * Critical System Status Tracking: Monitors the real-time operational status of user management, directory synchronization, and single sign-on services, helping IT professionals swiftly identify and address potential issues.
@@ -7,14 +7,14 @@ The ITSI Content Pack for Okta-Identity-Cloud from Kinney Group is specifically 
 
 This ITSI Content Pack is open source and available for community collaboration and enhancement on [GitHub](https://www.github.com/kinneygroup).
 
-For more information about Kinney Group's Splunk Products, visit our [website](https://kinneygroup.com/atlas)
+For more information about Presidio Splunk Solutions' Products, visit our [website](https://kinneygroup.com/atlas).
 
 ## Details
 The ITSI Content Pack for Okta-Identity-Cloud contains service definitions and KPIs ready to import to ITSI. The KPI Thresholds and importance values are set to defaults so that they can be tuned manually for your use case. After configuration, this content pack provides a comprehensive monitoring solution for Okta Identity Cloud services.
 
-[Kinney Group ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
+[Presidio Splunk Solutions ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
 
-For more information about Kinney Group's Splunk Products, visit our [website](https://kinneygroup.com/atlas)
+For more information about Presidio Splunk Solutions' Products, visit our [website](https://kinneygroup.com/atlas).
 
 ### Services
 Okta Identity Cloud monitoring encompasses several specialized services, each targeting specific aspects of identity and access management:
@@ -106,26 +106,27 @@ Some services form a hierarchy, such as UserMgmt depending on DirSync and APISer
 
 ## Troubleshooting
 
-[Kinney Group ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
+[Presidio Splunk Solutions ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
 
 [Github and Readme](https://www.github.com/kinneygroup)
 
-support@kinneygroup.com
+atlassupport@presidio.com
 
 ## Contact
 
 To provide feedback, visit our [Github and Readme](https://www.github.com/kinneygroup) for our content packs.
 
-support@kinneygroup.com
+atlassupport@presidio.com
 
-For more information about Kinney Group's Splunk Products, visit our [website](https://kinneygroup.com/atlas)
+For more information about Presidio Splunk Solutions' Products, visit our [website](https://kinneygroup.com/atlas)
 
 ## Version History
 
 | Version | Date  | Description                |
 |---------|-------|----------------------------|
 | 0.0.1   | 6/7/24 | Initial Preview Release    |
+| 1.0.0   | 5/14/25 | Documentation Update |
 
 ## Considerations:
 
-[Kinney Group ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
+[Presidio Splunk Solutions ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
